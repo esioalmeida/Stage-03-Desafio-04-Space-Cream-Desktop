@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaramarques.github.io/Stage03-Desafio04-Space-Cream-Desktop/)
+- [Visite o projeto online](https://esioalmeida.github.io/Stage-03-Desafio-04-Space-Cream-Desktop/)
 
 <br/>
 
